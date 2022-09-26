@@ -1,6 +1,6 @@
-name = "Amer Free Server"
+name = "AmerFreeerver"
 type = "javascript"
-account_id = "Amer Free Server"
+account_id = "AmerFreeerver"
 workers_dev = true
 route = ""
 zone_id = ""
