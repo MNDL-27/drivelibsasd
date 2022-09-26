@@ -1,6 +1,6 @@
 {
-  "name": "Amer Free Server",
-  "description": "Amer Free Server is a Google Drive media library manager and indexer, similar to Plex, that organizes Google Drive media to offer an intuitive and user-friendly experience.",
+  "name": "drivelibsasd",
+  "description": "drivelibsasd is a Google Drive media library manager and indexer, similar to Plex, that organizes Google Drive media to offer an intuitive and user-friendly experience.",
   "keywords": [
     "heroku",
     "movies",
@@ -17,8 +17,8 @@
     "gindex",
     "libdrive"
   ],
-  "website": "https://github.com/libDrive/Amer Free Server",
-  "repository": "https://github.com/libDrive/Amer Free Server",
+  "website": "https://github.com/MNDL-27/drivelibsasd",
+  "repository": "https://github.com/MNDL-27/drivelibsasd",
   "logo": "https://avatars2.githubusercontent.com/u/Amer Free Server?v=4",
   "success_url": "/",
   "env": {
