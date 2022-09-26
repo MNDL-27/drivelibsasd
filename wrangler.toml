@@ -1,6 +1,6 @@
-name = "erFreeerver"
+name = "libdrive"
 type = "javascript"
-account_id = "erFreeerver"
+account_id = "libdrive"
 workers_dev = true
 route = ""
 zone_id = ""
