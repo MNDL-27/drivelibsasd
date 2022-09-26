@@ -1,6 +1,6 @@
-name = "AmerFreeerver"
+name = "erFreeerver"
 type = "javascript"
-account_id = "AmerFreeerver"
+account_id = "erFreeerver"
 workers_dev = true
 route = ""
 zone_id = ""
