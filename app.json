@@ -1,5 +1,7 @@
 {
   "name": "Amer Free Server"
+    "success_url": "/",
+
 "env": {
     "LIBDRIVE_CONFIG": {
       "description": "Create this through the config generator: https://config.libdrive.tk. Make sure to read the meaning of each variable on the wiki: https://github.com/libDrive/libDrive/wiki/Config",
